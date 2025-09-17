@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/custom.css">
+<link rel="stylesheet" href="custom.css">
 
 # @dheeraj1428/ui
 
@@ -99,4 +99,5 @@ Briefcase
 Notes
 
 Base app
+
 
